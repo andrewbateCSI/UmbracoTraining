@@ -8,6 +8,7 @@
   "HistoryCleanup": {},
   "Icon": "icon-document-html",
   "Thumbnail": "folder.png",
+  "Description": "fix2",
   "Permissions": {
     "AllowedChildContentTypes": []
   },
