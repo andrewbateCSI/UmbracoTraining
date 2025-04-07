@@ -24,6 +24,7 @@
           "Key": "2870df64-dde5-47bf-a210-692819c80580",
           "Alias": "bodyText",
           "DataType": "umb://data-type/ca90c9500aff4e72b976a30b1ac57dad",
+          "Description": "This is going to break",
           "Name": "Body Text"
         },
         {
