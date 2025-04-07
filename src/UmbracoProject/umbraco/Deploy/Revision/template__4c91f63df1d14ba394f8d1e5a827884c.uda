@@ -1,0 +1,15 @@
+{
+  "Name": "Bob",
+  "Alias": "Bob",
+  "File": "umb://template-file/Bob.cshtml",
+  "Udi": "umb://template/4c91f63df1d14ba394f8d1e5a827884c",
+  "Dependencies": [
+    {
+      "Udi": "umb://template-file/Bob.cshtml",
+      "Ordering": true,
+      "Mode": "Exist"
+    }
+  ],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.TemplateArtifact",
+  "__version": "15.1.0"
+}
