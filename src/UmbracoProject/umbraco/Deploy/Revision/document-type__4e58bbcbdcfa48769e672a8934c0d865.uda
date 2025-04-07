@@ -8,6 +8,7 @@
   "HistoryCleanup": {},
   "Icon": "icon-document-html",
   "Thumbnail": "folder.png",
+  "Description": "hello bob",
   "Permissions": {
     "AllowedChildContentTypes": [
       "umb://document-type/4e58bbcbdcfa48769e672a8934c0d865"
