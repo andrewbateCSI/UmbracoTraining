@@ -1,13 +1,11 @@
 {
   "Name": "Blogs Folder",
   "Alias": "blogsFolder",
-  "DefaultTemplate": "umb://template/7d189a68b7fa4a63903bd9ee22105867",
-  "AllowedTemplates": [
-    "umb://template/7d189a68b7fa4a63903bd9ee22105867"
-  ],
+  "AllowedTemplates": [],
   "HistoryCleanup": {},
   "Icon": "icon-document-html",
   "Thumbnail": "folder.png",
+  "Description": "I am a breaking change",
   "Permissions": {
     "AllowedChildContentTypes": [
       "umb://document-type/7e56b5a7f02c40d597e48a85b341d7a0"
@@ -25,11 +23,6 @@
     },
     {
       "Udi": "umb://document-type/7e56b5a7f02c40d597e48a85b341d7a0",
-      "Mode": "Exist"
-    },
-    {
-      "Udi": "umb://template/7d189a68b7fa4a63903bd9ee22105867",
-      "Ordering": true,
       "Mode": "Exist"
     }
   ],
