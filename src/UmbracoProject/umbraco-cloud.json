@@ -1,10 +1,17 @@
 {
   "Deploy": {
     "Project": {
-      "Name": "andrew trial project",
+      "Name": "Andrew trial project",
       "Alias": "andrew-trial-project",
       "Id": "c194bdbc-1b9a-4d46-99cb-3db16d79b9a6",
+      "Url": "https://www.s1.umbraco.io/project/andrew-trial-project",
       "Workspaces": [
+        {
+          "Id": "8e969365-64e2-44db-b8df-ed7996afd85f",
+          "Name": "Development",
+          "Type": "development",
+          "Url": "https://dev-andrew-trial-project.euwest01.umbraco.io"
+        },
         {
           "Id": "de4ed257-a124-4fcf-9165-265ce36724d3",
           "Name": "Live",
