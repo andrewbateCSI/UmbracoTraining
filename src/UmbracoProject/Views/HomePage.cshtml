@@ -4,8 +4,14 @@
 @inject Umbraco.Cms.Web.Common.UmbracoHelper umbracoHelper
 @{
     Layout = "Master.cshtml";
+    var repos = GithubHelper.GetRepositories("umbraco");
 }
 
+@foreach(var repo in repos)
+{
+<h1>@repo.FullName</h1>
+<p>@repo.Description</p>
+}
 
 <div class="jumbotron d-flex align-items-center">
     <div class="container text-center">
